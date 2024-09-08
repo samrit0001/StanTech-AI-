@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Wireless Mouse,Electronics,29.99,150,4.5,230
+2,Laptop Stand,Electronics,49.99,100,4.7,120
+3,Running Shoes,Sports,89.99,300,4.8,350
+4,Water Bottle,Sports,15.99,500,4.2,90
+5,Notebook,Stationery,3.49,1000,,200
+6,Gaming Chair,Furniture,199.99,50,4.6,80
+7,Office Desk,Furniture,120.00,,4.3,45
+8,Pencil,Stationery,0.99,2000,4.0,500
+9,Headphones,Electronics,59.99,250,,400
+10,Yoga Mat,Sports,24.99,150,4.4,100
